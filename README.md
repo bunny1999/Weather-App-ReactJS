@@ -1,8 +1,20 @@
+1) Create .env file if not exsits in Project Main Folder.
+
+2) Past your openweatherapi KEY, in following formate
+REACT_APP_API_KEY=****************
+
+3) To start project, in termial of same project folder, type
+npm start
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
